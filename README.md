@@ -1,4 +1,4 @@
-# Dr. P. Shahad — Premium Academic Portfolio
+# Shahad Palathingal
 
 This is the first website build based on the approved visual mockup.
 
